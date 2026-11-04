@@ -1,4 +1,7 @@
 #!/bin/python3
 
-print("Written by: Marshall Fitzgerald")
-print("Python version used: 3.13.5")
+from time import sleep
+
+print("Initializing the most powerful scanner ever created...")
+sleep(30)
+
